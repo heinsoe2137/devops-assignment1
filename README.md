@@ -13,6 +13,6 @@ Main purpose is to get in touch with Git, know more about its nature of branches
 
 Collaboration procedure
 -------------------------
-My collaborator is Hay Mar Khaing and she created a new branch , added some files in there and made a pull request to me.
+My collaborator is Hay Mar Khaing and she created a new branch "feature by HMK/new-feature" , added some files in there and made a pull request to me.
 
 I checked and reviewed that pull request and merged into main branch.
