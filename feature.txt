@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 " This is a new feature by HS"
+=======
+This is a new feature by HMK
+>>>>>>> c1f4d066ab35474be1c0b63841a6afc8b0e072d6
